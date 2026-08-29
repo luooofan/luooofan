@@ -5,7 +5,7 @@
 ### Hi there! 👋
 
 <a href="https://github.com/luooofan">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=luooofan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img align="center" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?theme=radical&username=luooofan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&rank_icon=github" />
 </a>
 <!--
 <a href="https://github.com/luooofan">
